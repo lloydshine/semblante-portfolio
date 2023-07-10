@@ -1,0 +1,25 @@
+.services {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.services-content_container {
+    display: flex;
+}
+
+h1 {
+    color: #3DFF5C;
+    font-family: var(--font-family);
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+@media screen and (max-width: 960px) {
+    .services-content_container {
+        flex-direction: column;
+    }
+}

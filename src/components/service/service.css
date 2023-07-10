@@ -1,0 +1,31 @@
+.service {
+    height: 181px;
+    width: 424px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 50px;
+    border-radius: 10px;
+    border: 3px solid #3DFF5C;
+    background: #1E1E1E;
+}
+
+.service-title {
+    color: #FFF;
+    font-family: var(--font-family);
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.service-description {
+    color: #FFF;
+    font-family: var(--font-family);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 6rem;
+}
+
+.footer-logo {
+    flex: 1;
+    align-self: center;
+}
+
+.footer-links {
+    color: white;
+}
