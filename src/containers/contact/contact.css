@@ -1,12 +1,12 @@
 .contact {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .contact form {
-    display: flex;
-    flex-direction: column;
-    color: white;
+  display: flex;
+  flex-direction: column;
+  color: black;
 }
